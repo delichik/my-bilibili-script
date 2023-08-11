@@ -1,3 +1,3 @@
-# my-bilibili-script
+# my-script
 
-A script of greasyfork/violentmonkey for bilibili
+A script collection of greasyfork/violentmonkey for myself
