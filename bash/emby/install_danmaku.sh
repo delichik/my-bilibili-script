@@ -3,8 +3,8 @@
 rm -rf ./danmaku.movie.kg
 mkdir -p ./danmaku.movie.kg
 
-wget -P ./danmaku.movie.kg/ -o  https://raw.githubusercontent.com/delichik/my-script/main/bash/emby/danmaku.movie.kg.js
-wget -P ./danmaku.movie.kg/ -o  https://raw.githubusercontent.com/delichik/my-script/main/bash/emby/danmaku.movie.kg.css
+wget -P ./danmaku.movie.kg/ https://raw.githubusercontent.com/delichik/my-script/main/bash/emby/danmaku.movie.kg.js
+wget -P ./danmaku.movie.kg/ https://raw.githubusercontent.com/delichik/my-script/main/bash/emby/danmaku.movie.kg.css
 
 # 读取index.html文件内容
 content=$(cat index.html)
