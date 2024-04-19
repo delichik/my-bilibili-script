@@ -11,7 +11,7 @@
 // @run-at          document-start
 // @connect         *
 // @require         https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js
-// @downloadURL     https://raw.githubusercontent.com/delichik/my-script/main/bilibili.js
+// @downloadURL     https://raw.githubusercontent.com/delichik/my-script/main/violentmonkey/bilibili.js
 // ==/UserScript==
 
 (function () {

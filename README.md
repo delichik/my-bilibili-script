@@ -1,11 +1,11 @@
 # my-script
 
-A script collection of greasyfork/violentmonkey for myself
+A scripts collection for myself
 
-## bilibili.js
+## bash
 
-- Disable to start next video when now playing is finished.
+Some bash scripts.
 
-## emby-danmuky.js
+## violentmokey
 
-Inject the [danmuku](https://danmaku.movie.kg/) extension into emby.
+JS scripts for violentmokey.
